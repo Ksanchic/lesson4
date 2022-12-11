@@ -1,0 +1,15 @@
+/Users/krr/Desktop/oks/less4/task30/obj/Debug/net7.0/task30.csproj.AssemblyReference.cache
+/Users/krr/Desktop/oks/less4/task30/obj/Debug/net7.0/task30.GeneratedMSBuildEditorConfig.editorconfig
+/Users/krr/Desktop/oks/less4/task30/obj/Debug/net7.0/task30.AssemblyInfoInputs.cache
+/Users/krr/Desktop/oks/less4/task30/obj/Debug/net7.0/task30.AssemblyInfo.cs
+/Users/krr/Desktop/oks/less4/task30/obj/Debug/net7.0/task30.csproj.CoreCompileInputs.cache
+/Users/krr/Desktop/oks/less4/task30/bin/Debug/net7.0/task30
+/Users/krr/Desktop/oks/less4/task30/bin/Debug/net7.0/task30.deps.json
+/Users/krr/Desktop/oks/less4/task30/bin/Debug/net7.0/task30.runtimeconfig.json
+/Users/krr/Desktop/oks/less4/task30/bin/Debug/net7.0/task30.dll
+/Users/krr/Desktop/oks/less4/task30/bin/Debug/net7.0/task30.pdb
+/Users/krr/Desktop/oks/less4/task30/obj/Debug/net7.0/task30.dll
+/Users/krr/Desktop/oks/less4/task30/obj/Debug/net7.0/refint/task30.dll
+/Users/krr/Desktop/oks/less4/task30/obj/Debug/net7.0/task30.pdb
+/Users/krr/Desktop/oks/less4/task30/obj/Debug/net7.0/task30.genruntimeconfig.cache
+/Users/krr/Desktop/oks/less4/task30/obj/Debug/net7.0/ref/task30.dll
