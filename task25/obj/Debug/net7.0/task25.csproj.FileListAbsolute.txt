@@ -1,0 +1,15 @@
+/Users/krr/Desktop/oks/less4/task25/obj/Debug/net7.0/task25.csproj.AssemblyReference.cache
+/Users/krr/Desktop/oks/less4/task25/obj/Debug/net7.0/task25.GeneratedMSBuildEditorConfig.editorconfig
+/Users/krr/Desktop/oks/less4/task25/obj/Debug/net7.0/task25.AssemblyInfoInputs.cache
+/Users/krr/Desktop/oks/less4/task25/obj/Debug/net7.0/task25.AssemblyInfo.cs
+/Users/krr/Desktop/oks/less4/task25/obj/Debug/net7.0/task25.csproj.CoreCompileInputs.cache
+/Users/krr/Desktop/oks/less4/task25/bin/Debug/net7.0/task25
+/Users/krr/Desktop/oks/less4/task25/bin/Debug/net7.0/task25.deps.json
+/Users/krr/Desktop/oks/less4/task25/bin/Debug/net7.0/task25.runtimeconfig.json
+/Users/krr/Desktop/oks/less4/task25/bin/Debug/net7.0/task25.dll
+/Users/krr/Desktop/oks/less4/task25/bin/Debug/net7.0/task25.pdb
+/Users/krr/Desktop/oks/less4/task25/obj/Debug/net7.0/task25.dll
+/Users/krr/Desktop/oks/less4/task25/obj/Debug/net7.0/refint/task25.dll
+/Users/krr/Desktop/oks/less4/task25/obj/Debug/net7.0/task25.pdb
+/Users/krr/Desktop/oks/less4/task25/obj/Debug/net7.0/task25.genruntimeconfig.cache
+/Users/krr/Desktop/oks/less4/task25/obj/Debug/net7.0/ref/task25.dll
