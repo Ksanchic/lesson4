@@ -1,0 +1,15 @@
+/Users/krr/Desktop/oks/less4/task29new/bin/Debug/net7.0/task29new
+/Users/krr/Desktop/oks/less4/task29new/bin/Debug/net7.0/task29new.deps.json
+/Users/krr/Desktop/oks/less4/task29new/bin/Debug/net7.0/task29new.runtimeconfig.json
+/Users/krr/Desktop/oks/less4/task29new/bin/Debug/net7.0/task29new.dll
+/Users/krr/Desktop/oks/less4/task29new/bin/Debug/net7.0/task29new.pdb
+/Users/krr/Desktop/oks/less4/task29new/obj/Debug/net7.0/task29new.csproj.AssemblyReference.cache
+/Users/krr/Desktop/oks/less4/task29new/obj/Debug/net7.0/task29new.GeneratedMSBuildEditorConfig.editorconfig
+/Users/krr/Desktop/oks/less4/task29new/obj/Debug/net7.0/task29new.AssemblyInfoInputs.cache
+/Users/krr/Desktop/oks/less4/task29new/obj/Debug/net7.0/task29new.AssemblyInfo.cs
+/Users/krr/Desktop/oks/less4/task29new/obj/Debug/net7.0/task29new.csproj.CoreCompileInputs.cache
+/Users/krr/Desktop/oks/less4/task29new/obj/Debug/net7.0/task29new.dll
+/Users/krr/Desktop/oks/less4/task29new/obj/Debug/net7.0/refint/task29new.dll
+/Users/krr/Desktop/oks/less4/task29new/obj/Debug/net7.0/task29new.pdb
+/Users/krr/Desktop/oks/less4/task29new/obj/Debug/net7.0/task29new.genruntimeconfig.cache
+/Users/krr/Desktop/oks/less4/task29new/obj/Debug/net7.0/ref/task29new.dll
