@@ -1,0 +1,15 @@
+/Users/krr/Desktop/oks/less4/task27/bin/Debug/net7.0/task27
+/Users/krr/Desktop/oks/less4/task27/bin/Debug/net7.0/task27.deps.json
+/Users/krr/Desktop/oks/less4/task27/bin/Debug/net7.0/task27.runtimeconfig.json
+/Users/krr/Desktop/oks/less4/task27/bin/Debug/net7.0/task27.dll
+/Users/krr/Desktop/oks/less4/task27/bin/Debug/net7.0/task27.pdb
+/Users/krr/Desktop/oks/less4/task27/obj/Debug/net7.0/task27.csproj.AssemblyReference.cache
+/Users/krr/Desktop/oks/less4/task27/obj/Debug/net7.0/task27.GeneratedMSBuildEditorConfig.editorconfig
+/Users/krr/Desktop/oks/less4/task27/obj/Debug/net7.0/task27.AssemblyInfoInputs.cache
+/Users/krr/Desktop/oks/less4/task27/obj/Debug/net7.0/task27.AssemblyInfo.cs
+/Users/krr/Desktop/oks/less4/task27/obj/Debug/net7.0/task27.csproj.CoreCompileInputs.cache
+/Users/krr/Desktop/oks/less4/task27/obj/Debug/net7.0/task27.dll
+/Users/krr/Desktop/oks/less4/task27/obj/Debug/net7.0/refint/task27.dll
+/Users/krr/Desktop/oks/less4/task27/obj/Debug/net7.0/task27.pdb
+/Users/krr/Desktop/oks/less4/task27/obj/Debug/net7.0/task27.genruntimeconfig.cache
+/Users/krr/Desktop/oks/less4/task27/obj/Debug/net7.0/ref/task27.dll
